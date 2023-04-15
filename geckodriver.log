@@ -1,0 +1,185 @@
+1681562552338	geckodriver	INFO	Listening on 127.0.0.1:54926
+1681562555402	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54927" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abcd\\AppData\\Local\\Temp\\rust_mozprofilec6W5h3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681562556593	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681562556610	Marionette	INFO	Listening on port 54938
+Read port: 54938
+WebDriver BiDi listening on ws://127.0.0.1:54927
+1681562556981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd\\AppData\\Local\\Temp\\rust_mozprofilec6W5h3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54927/devtools/browser/ce75b4e8-a069-4047-a7d7-f72e72d7eeaa
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+JavaScript error: https://static.pib.gov.in/writereaddata/js/all.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+console.error: ({})
+JavaScript error: https://static.pib.gov.in/writereaddata/js/all.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+console.error: ({})
+JavaScript error: https://static.pib.gov.in/writereaddata/js/all.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+console.error: ({})
+JavaScript error: https://static.pib.gov.in/writereaddata/js/all.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+console.error: ({})
+JavaScript error: https://static.pib.gov.in/writereaddata/js/all.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+console.error: ({})
+JavaScript error: https://static.pib.gov.in/writereaddata/js/all.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+console.error: ({})
+JavaScript error: https://static.pib.gov.in/writereaddata/js/all.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+console.error: ({})
+JavaScript error: https://static.pib.gov.in/writereaddata/js/all.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+console.error: ({})
+JavaScript error: https://static.pib.gov.in/writereaddata/js/all.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+console.error: ({})
+JavaScript error: https://static.pib.gov.in/writereaddata/js/all.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+console.error: ({})
+JavaScript error: https://static.pib.gov.in/writereaddata/js/all.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+console.error: ({})
+JavaScript error: https://static.pib.gov.in/writereaddata/js/all.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+console.error: ({})
+JavaScript error: https://static.pib.gov.in/writereaddata/js/all.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+console.error: ({})
+JavaScript error: https://static.pib.gov.in/writereaddata/js/all.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+console.error: ({})
+JavaScript error: https://static.pib.gov.in/writereaddata/js/all.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+console.error: ({})
+JavaScript error: https://static.pib.gov.in/writereaddata/js/all.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+console.error: ({})
+JavaScript error: https://static.pib.gov.in/writereaddata/js/all.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+console.error: ({})
+JavaScript error: https://static.pib.gov.in/writereaddata/js/all.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+console.error: ({})
+JavaScript error: https://static.pib.gov.in/writereaddata/js/all.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+console.error: ({})
+JavaScript error: https://static.pib.gov.in/writereaddata/js/all.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://static.pib.gov.in/writereaddata/js/all.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.indexOf is not a function
+1681563066850	Marionette	INFO	Stopped listening on port 54938
+Dynamically enable window occlusion 1
