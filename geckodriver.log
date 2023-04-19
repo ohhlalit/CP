@@ -1,3 +1,18 @@
+<<<<<<< HEAD
+1681576166511	geckodriver	INFO	Listening on 127.0.0.1:53402
+1681576169561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53403" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilejrMwBE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681576171732	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681576171767	Marionette	INFO	Listening on port 53438
+Read port: 53438
+WebDriver BiDi listening on ws://127.0.0.1:53403
+1681576172206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilejrMwBE\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53403/devtools/browser/62864d4e-e07b-4037-bc67-b48851dfe948
+=======
 1681562552338	geckodriver	INFO	Listening on 127.0.0.1:54926
 1681562555402	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54927" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abcd\\AppData\\Local\\Temp\\rust_mozprofilec6W5h3"
 console.warn: services.settings: Ignoring preference override of remote settings server
@@ -10,6 +25,7 @@ WebDriver BiDi listening on ws://127.0.0.1:54927
 1681562556981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd\\AppData\\Local\\Temp\\rust_mozprofilec6W5h3\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:54927/devtools/browser/ce75b4e8-a069-4047-a7d7-f72e72d7eeaa
+>>>>>>> c6874aef18f7baf467dcfbead3e7b9affdee3d65
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
@@ -54,6 +70,9 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+<<<<<<< HEAD
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+=======
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
@@ -359,12 +378,15 @@ WebDriver BiDi listening on ws://127.0.0.1:58434
 1681576942329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abcd\\AppData\\Local\\Temp\\rust_mozprofile1vqnic\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:58434/devtools/browser/135e0384-ca61-4f7c-957d-38fd64ba4609
+>>>>>>> c6874aef18f7baf467dcfbead3e7b9affdee3d65
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
+<<<<<<< HEAD
+=======
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pib.gov.in."
@@ -5709,3 +5731,4 @@ JavaScript error: https://pib.gov.in/js/jquery.min.js, line 2: TypeError: e.inde
 console.error: ({})
 1681633374403	Marionette	INFO	Stopped listening on port 58529
 Dynamically enable window occlusion 1
+>>>>>>> c6874aef18f7baf467dcfbead3e7b9affdee3d65
