@@ -1,0 +1,14 @@
+1683646895412	geckodriver	INFO	Listening on 127.0.0.1:62814
+1683646898470	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62815" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilef5738g"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683646899054	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683646899062	Marionette	INFO	Listening on port 62838
+Read port: 62838
+WebDriver BiDi listening on ws://127.0.0.1:62815
+1683646899234	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilef5738g\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:62815/devtools/browser/324d3231-44e2-4350-9a3f-83bcf62c2261
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
