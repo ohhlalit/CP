@@ -41,7 +41,5 @@ The speeches were collected from the following sources:
 
 ## Repository Structure
 - `data/`: Raw speech data (CSV format) for both Prime Ministers.
-- `notebooks/`: Jupyter notebooks showcasing the data processing, modeling, and visualization steps.
-- `models/`: Trained Doc2Vec and clustering models.
-- `visualizations/`: Interactive visualizations generated using Plotly.
+- `name/`: Jupyter notebooks showcasing the data scraping, processing, modeling, and visualization steps.
 - `README.md`: Overview of the project.
